@@ -1,3 +1,13 @@
+## Usage
+
+```
+$ cd /path/to/Hathi_stuff/HathPrint_Process_Records/
+$ source ../env/bin/activate
+$ (env) python ./Multipart_Monographs.py ../Hathi_data/Alma_Export ../Hathi_data/MARCXML_Output ../Hathi_data/Final_Output 
+```
+
+---
+
 ## Install Python Packages
 Several Python 3 packages are utilized:
   - tarfile
